@@ -101,8 +101,7 @@ int main(void)
 
   while (1)
   {
-
-	 fsm_auto_2way_run();
+        fsm_auto_2way_run();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
