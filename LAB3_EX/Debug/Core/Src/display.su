@@ -1,0 +1,4 @@
+display.c:19:6:display_setNumber	16	static
+display.c:31:13:display7seg_output	32	static
+display.c:44:13:disableAllEN	8	static
+display.c:48:6:display_update	16	static
